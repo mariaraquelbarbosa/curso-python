@@ -1,0 +1,1 @@
+print("Programa 0 rodado com sucesso!")
