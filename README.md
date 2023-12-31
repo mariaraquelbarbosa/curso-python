@@ -6,4 +6,5 @@ Material e listas do curso básico de Python do FEA.dev realizado em 2022.
 > Status: Conluído ✅
 
 # Videoaulas
-* [Curso de Pytho 2022 - YouTube Playlist](https://www.youtube.com/watch?v=SSo_ksWPsBQ&list=PLiJqHBsOKi2cnuiboIPL68Cr2x3CGqnXL&pp=gAQBiAQB)
+* [Curso de Python 2022 - YouTube Playlist](https://www.youtube.com/watch?v=SSo_ksWPsBQ&list=PLiJqHBsOKi2cnuiboIPL68Cr2x3CGqnXL&pp=gAQBiAQB)
+* [Curso de Python 2023 - Sapium](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about)
